@@ -1,0 +1,52 @@
+[
+  {
+    "task": {
+      "plugin": "file_lister",
+      "args": {
+        "path": "."
+      }
+    },
+    "result": [
+      "plugin_loader.py",
+      "plugins",
+      "__pycache__",
+      "brain.py",
+      "reflections.json",
+      "tasks.json"
+    ]
+  },
+  {
+    "description": "list all files in this folder",
+    "plugin_used": "file_lister",
+    "args": {
+      "path": "."
+    },
+    "result": [
+      "plugin_loader.py",
+      "plugins",
+      "__pycache__",
+      "brain.py",
+      "reflections.json",
+      "plugin_index.json",
+      "tasks.json"
+    ]
+  },
+  {
+    "description": "list all files in this folder",
+    "plugin_used": "file_lister",
+    "args": {
+      "path": "."
+    },
+    "result": [
+      "plugin_loader.py",
+      "plugin_memory.json",
+      "plugins",
+      "__pycache__",
+      "brain.py",
+      "reflections.json",
+      "plugin_index.json",
+      "tasks.json"
+    ],
+    "score": 3
+  }
+]

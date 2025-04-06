@@ -1,0 +1,10 @@
+Write a valid Python function called generate_goals(). It must:
+
+1. Load a file called reflections.json
+2. Loop through all entries
+3. For each entry with a score <= 5, create a string goal:
+   "Improve handling of [description]"
+4. Return the list of goals.
+
+Only output valid Python code. No text, JSON, or explanations.
+

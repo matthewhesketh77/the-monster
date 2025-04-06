@@ -1,0 +1,24 @@
+[
+  {
+    "description": "Improve decision-making efficiency",
+    "source": "reflection",
+    "date_created": "2025-04-07T10:01:31.019519",
+    "priority": 8,
+    "completed": false
+  },
+  {
+    "description": "Achieve 95% completion rate of high-priority goals",
+    "source": "reflection",
+    "date_created": "2025-04-07T10:10:31.019519",
+    "priority": 9,
+    "completed": false
+  },
+  {
+    "description": "Auto-generate advanced plugins for task optimization",
+    "source": "reflection",
+    "date_created": "2025-04-07T10:20:31.019519",
+    "priority": 10,
+    "completed": false
+  }
+]
+
